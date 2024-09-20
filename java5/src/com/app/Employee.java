@@ -15,4 +15,9 @@ System.out.println("M2");
   {
 System.out.println("M3");
   }
+   
+   public void m4()
+   {
+ System.out.println("M4");
+   }
 }
